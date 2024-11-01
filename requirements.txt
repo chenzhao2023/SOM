@@ -1,0 +1,12 @@
+numpy = 1.25.2
+scipy
+scikit-learn
+pillow
+tqdm
+matplotlib
+pandas
+six
+simpleitk
+seaborn
+torch
+numpy
